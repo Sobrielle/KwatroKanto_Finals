@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KwatroKanto-Final-Project</string>
+    <string name="head_one">How are you \n feeling today?</string>
+    <string name="head_two">Hey, username!</string>
+    <string name="happy">Happy</string>
+    <string name="sad">Sad</string>
+    <string name="angry">Angry</string>
+    <string name="disgusted">Disgusted</string>
+    <string name="scared">Scared</string>
+    <string name="note_title">Title Note</string>
+    <string name="search">Search your mood...</string>
+    <string name="groupName">kwatro.kanto</string>
+    <string name="uOkay_strtr">Are you okay?</string>
+    <string name="tellMeEverything_strtr">TELL ME EVERYTHING</string>
+    <string name="tap_the_screen">tap the screen</string>
+</resources>
