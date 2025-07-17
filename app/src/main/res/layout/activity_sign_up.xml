@@ -8,6 +8,7 @@
     android:padding="16dp">
 
     <!-- Title -->
+    <!-- Title -->
 
     <TextView
         android:id="@+id/title"
