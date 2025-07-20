@@ -18,7 +18,7 @@
         android:scaleType="fitCenter"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/Profile" />
+        app:srcCompat="@drawable/profile" />
 
     <TextView
         android:id="@+id/headTwo"
@@ -55,7 +55,7 @@
         app:layout_constraintHorizontal_bias="0.502"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/headOne"
-        app:srcCompat="@drawable/Car_Bg" />
+        app:srcCompat="@drawable/car_bg" />
 
     <ImageView
         android:id="@+id/happy"
@@ -65,7 +65,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/headOne"
-        app:srcCompat="@drawable/Happy" />
+        app:srcCompat="@drawable/happy" />
 
     <ImageView
         android:id="@+id/sad"
@@ -78,7 +78,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/happy"
-        app:srcCompat="@drawable/Sad" />
+        app:srcCompat="@drawable/sad" />
 
     <ImageView
         android:id="@+id/angry"
@@ -89,7 +89,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/sad"
         app:layout_constraintTop_toTopOf="@+id/sad"
-        app:srcCompat="@drawable/Angry" />
+        app:srcCompat="@drawable/angry" />
 
     <ImageView
         android:id="@+id/disgusted"
@@ -100,7 +100,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/happy"
-        app:srcCompat="@drawable/Disgusted" />
+        app:srcCompat="@drawable/disgusted" />
 
     <ImageView
         android:id="@+id/scared"
@@ -110,7 +110,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/disgusted"
         app:layout_constraintTop_toTopOf="@+id/disgusted"
-        app:srcCompat="@drawable/Scared" />
+        app:srcCompat="@drawable/scared" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/search_container"
@@ -133,7 +133,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/Search" />
+            app:srcCompat="@drawable/search" />
 
         <EditText
             android:id="@+id/search"
@@ -166,7 +166,7 @@
         android:scaleType="fitCenter"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:srcCompat="@drawable/Add" />
+        app:srcCompat="@drawable/add" />
 
     <TextView
         android:id="@+id/diaryPage"
